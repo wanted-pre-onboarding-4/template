@@ -18,7 +18,11 @@
    $ npm install
    ```
 3. `Disconnet` from origin remote repository
+   ```markdown
+   $ git remote remove origin
+   ```
 
 4. `Connect` to your remote repository
-
-4. `Push` to your github
+   ```markdown
+   $ git remote add origin [your repository]
+   ```
