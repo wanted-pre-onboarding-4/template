@@ -13,10 +13,12 @@
    ```markdown
    $ git clone https://github.com/wanted-pre-onboarding-4/template.git
    ```
-2. `Set` remote add origin
-
-3. `Install` dependencies
+2. `Install` dependencies
    ```markdown
    $ npm install
    ```
-4. `Push` to your project github
+3. `Disconnet` from origin remote repository
+
+4. `Connect` to your remote repository
+
+4. `Push` to your github
